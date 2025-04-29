@@ -1,5 +1,6 @@
 package main
 
+// This is a simple Go program that adds two integers and prints the result.
 import (
 	"fmt"
 )
